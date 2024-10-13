@@ -3224,7 +3224,7 @@
 
 @media (max-width: 575px) {
    .u-section-7 {
-    min-height: 754px;
+    min-height: 793px;
   }
 
   .u-section-7 .u-group-1 {
@@ -3286,7 +3286,10 @@
   }
 
   .u-section-7 .u-text-5 {
-    margin: 27px calc(((100% - 340px) / 2)  + -90px) 0 calc(((100% - 340px) / 2)  + -37px);
+    width: 333px;
+    margin-top: 27px;
+    margin-left: auto;
+    margin-bottom: 14px;
   }
 }.if.mouse.etype.return.Mnt.e.mouse.void {
 }
